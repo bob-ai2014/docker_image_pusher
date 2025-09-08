@@ -1,5 +1,4 @@
 nginx
 #支持私
 arm64v8/ubuntu:latest
-whyour/qinglong:latest
-
+whyour/qinglong:v2.15.0
