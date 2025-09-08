@@ -1,5 +1,5 @@
 nginx
-#支持私库
+#支持私
 arm64v8/ubuntu:latest
 whyour/qinglong:latest
 
